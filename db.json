@@ -1,23 +1,25 @@
-[
-  {
-    "id": 1,
-    "title": "Design login screen",
-    "description": "Add Figma design link to the task",
-    "status": "To Do",
-    "assignee": "Alice"
-  },
-  {
-    "id": 2,
-    "title": "Implement login API",
-    "description": "Connect to backend auth endpoint",
-    "status": "In Progress",
-    "assignee": "Bob"
-  },
-  {
-    "id": 3,
-    "title": "Write unit tests for auth",
-    "description": "Cover success and failure cases",
-    "status": "Done",
-    "assignee": "Charlie"
-  }
-]
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design login screen",
+      "description": "Add Figma design link to the task",
+      "status": "To Do",
+      "assignee": "Alice"
+    },
+    {
+      "id": 2,
+      "title": "Implement login API",
+      "description": "Connect to backend auth endpoint",
+      "status": "In Progress",
+      "assignee": "Bob"
+    },
+    {
+      "id": 3,
+      "title": "Write unit tests for auth",
+      "description": "Cover success and failure cases",
+      "status": "Done",
+      "assignee": "Charlie"
+    }
+  ]
+}
